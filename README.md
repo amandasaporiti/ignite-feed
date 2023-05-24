@@ -43,9 +43,10 @@ O ignite Feed é uma aplicação desenvolvida visando colocar em prática os pri
 
 ## :construction_worker: Instalação
 
-**É necessário instalar o [Node.js](https://nodejs.org/en/download/) primeiro, e para clonar o projeto basta utilizar o seguinte comando:**
+**É necessário instalar o [Node.js](https://nodejs.org/en/download/) primeiro, e para clonar o projeto via HTTPS basta utilizar o seguinte comando:**
 
 `$ git clone https://github.com/amandasaporiti/ignite-feed.git`
+
 
 <br>
 
