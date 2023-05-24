@@ -47,7 +47,6 @@ O ignite Feed é uma aplicação desenvolvida visando colocar em prática os pri
 
 `$ git clone https://github.com/amandasaporiti/ignite-feed.git`
 
-
 <br>
 
 **Instalando todas as dependências**
@@ -68,7 +67,7 @@ Execute os seguintes comandos para começar a aplicação em um ambiente de dese
 
 # :computer: Deploy
 
-[We are ONLINE, try Now]() :tada:<br>
+[We are ONLINE, try Now](https://ignite-feed-interface.netlify.app/) :tada:<br>
 
 <br>
 
